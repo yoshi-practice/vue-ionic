@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@ionic/core": "4.0.0-beta.18",
-    "@ionic/vue": "0.0.1",
+    "@ionic/vue": "0.0.4",
     "vue": "2.5.21"
   },
   "devDependencies": {
