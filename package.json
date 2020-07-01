@@ -10,16 +10,16 @@
   "dependencies": {
     "@ionic/core": "4.11.7",
     "@ionic/vue": "0.0.4",
-    "vue": "2.6.10"
+    "vue": "2.6.11"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "4.1.1",
-    "@vue/cli-plugin-eslint": "4.1.1",
-    "@vue/cli-service": "4.1.1",
+    "@vue/cli-plugin-babel": "4.4.6",
+    "@vue/cli-plugin-eslint": "4.4.6",
+    "@vue/cli-service": "4.4.6",
     "babel-eslint": "10.0.3",
     "eslint": "6.8.0",
     "eslint-plugin-vue": "5.2.3",
-    "vue-template-compiler": "2.6.10"
+    "vue-template-compiler": "2.6.11"
   },
   "eslintConfig": {
     "root": true,
